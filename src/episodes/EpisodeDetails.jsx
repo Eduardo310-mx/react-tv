@@ -7,7 +7,7 @@ export default function EpisodeDetails({ episode }) {
       <section className="episode-details">
         <h2>Episode Details</h2>
         <p>Select an episode to learn more.</p>
-      </section>
+      </section> 
     );
   }
 

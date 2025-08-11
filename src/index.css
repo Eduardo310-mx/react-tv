@@ -26,3 +26,9 @@ header {
 button {
   padding: 0.25rem 0.5rem;
 }
+.show {
+  border-right: 1px solid white;
+  display: flex;
+  color: white;
+  text-decoration: none;
+}
